@@ -1,1 +1,1 @@
-## Estudando .map(), loop for e .filter()
+## Estudando loop for e .filter()
